@@ -1,8 +1,7 @@
 <template>
-   
-    <!-- 渲染出口        -->
-    <router-view></router-view>
-    
+    <div>
+    main        
+    </div>
 </template>
 <script>
 export default {
